@@ -33,6 +33,7 @@ Each link is a gateway to a world of innovation, a testament to dedication, and 
 * [Prasenjit Nayak](https://www.prasen.dev/)
 * [Soumyodeep Dey](https://soumyodeep-dey.vercel.app/)
 * [Stephen Omoregie](https://cre8stevedev.me)
+* [thomas 'arbinger' iniguez visioli](https://thomas-iniguez-visioli.github.io/)
 <!-- CONTRIBUTORS_END -->
 
 ## How to Contribute
